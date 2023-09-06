@@ -1,6 +1,6 @@
-# Sentiment-Emotion-Analysis-with-Adv-NLP-Technique
+# Sentiment-Emotion-Analysis-with-Adv-NLP-Technique 📊
 
-# Sentiment Analysis NLP Project 📊
+
 
 # Unlock the Power of Language for Emotion Analysis 📝
 
