@@ -6,6 +6,9 @@ Sentiment analysis is the process of classifying whether a block of text is posi
 
 Welcome to our Sentiment Analysis NLP project! Dive into the fascinating world of Natural Language Processing (NLP) and explore how machines can understand and interpret human emotions through text data.
 
+![image](https://github.com/Dhananjaysingh09/Sentiment-Emotion-Analysis-with-Adv-NLP-Technique/assets/111298483/ad51e4e6-87cb-4c8a-bf55-2b91b4299f96)
+
+
 # Project Overview
 
 In this repository, we embark on a captivating journey to:
